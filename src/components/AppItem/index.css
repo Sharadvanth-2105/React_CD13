@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.App-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  border-width: 0px;
+  text-align: center;
+  margin: 5px;
+  list-style-type: none;
+}
+.para {
+  color: #000000;
+  font-family: Bree Serif;
+  font-weight: bold;
+}
+.img {
+  width: 10vw;
+}
